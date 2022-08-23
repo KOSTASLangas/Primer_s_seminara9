@@ -1,0 +1,15 @@
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\obj\Debug\net6.0\Задача63.csproj.AssemblyReference.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\obj\Debug\net6.0\Задача63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\obj\Debug\net6.0\Задача63.AssemblyInfoInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\obj\Debug\net6.0\Задача63.AssemblyInfo.cs
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\obj\Debug\net6.0\Задача63.csproj.CoreCompileInputs.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\bin\Debug\net6.0\Задача63.exe
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\bin\Debug\net6.0\Задача63.deps.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\bin\Debug\net6.0\Задача63.runtimeconfig.json
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\bin\Debug\net6.0\Задача63.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\bin\Debug\net6.0\Задача63.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\obj\Debug\net6.0\Задача63.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\obj\Debug\net6.0\refint\Задача63.dll
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\obj\Debug\net6.0\Задача63.pdb
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\obj\Debug\net6.0\Задача63.genruntimeconfig.cache
+C:\Users\Kostas\Desktop\Geekbrains\C#\Семинар 9 (примеры и дз)\Seminar\Задача63\obj\Debug\net6.0\ref\Задача63.dll
